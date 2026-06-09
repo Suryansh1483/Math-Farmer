@@ -263,9 +263,19 @@ Supports **Save**, **Load**, and **New Game** via Unity PlayerPrefs.
 
 ## 🎥 Gameplay Video
 
-https://github.com/user-attachments/assets/Gameplay/MathFarmer(GamePlay).mp4
+<div align="center">
 
-> *Full gameplay walkthrough — planting, watering, answering questions, harvesting, and levelling up.*
+<a href="https://drive.google.com/file/d/1A3fYxLSkIqhGBuzcK7Vin21qZoXuWnDZ/view">
+
+<img src="./Screenshots/Thumbnail.png" width="900">
+
+</a>
+
+### ▶️ Watch Full Gameplay
+
+Click the thumbnail above to view the gameplay video.
+
+</div>
 
 <br/>
 
